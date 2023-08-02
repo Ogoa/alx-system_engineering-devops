@@ -25,4 +25,7 @@ This file contains work for task 6. It is a script theat creates a directory nam
 This file contains worj for task 7. It is a script that moves the file betty from /tmp to /tmp/my_first_directory.
 
 8-firstdelete
-This file contains work for task 8. It is a script that deletes the file betty which is in /tmp/my_first_directory.
+This file contains work for task 8. It is a script that deletes the file betty that is in /tmp/my_first_directory.
+
+9-firstdirdeletion
+This file contains work for task 9. It is a script that deletes the directory my_first_directory that is in the /tmp directory.
