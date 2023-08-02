@@ -8,3 +8,6 @@ This file contains work for task 1. It is a script that displays the contents li
 
 2-bring_me_home
 This file contains work for task 2. It is a script that changes the working directory to the user's home directory.
+
+3-listfiles
+THis file contains work for task 3. It is a script that displays the contents of the working directory in a long format.
