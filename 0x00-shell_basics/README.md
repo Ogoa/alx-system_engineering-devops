@@ -20,3 +20,6 @@ This file contains work for task 5. It is a script that displays the contents of
 
 6-firstdirectory
 This file contains work for task 6. It is a script theat creates a directory named my_first_directory in the /tmp directory.
+
+7-movethatfile
+This file contains worj for task 7. It is a script that moves the file betty from /tmp to /tmp/my_first_directory.
