@@ -10,4 +10,7 @@ This file contains work for task 1. It is a script that displays the contents li
 This file contains work for task 2. It is a script that changes the working directory to the user's home directory.
 
 3-listfiles
-THis file contains work for task 3. It is a script that displays the contents of the working directory in a long format.
+This file contains work for task 3. It is a script that displays the contents of the working directory in a long format.
+
+4-listmorefiles
+This file contains work for task 4. It is a script that displays the contents of the working directory in long format, including hidden files.
