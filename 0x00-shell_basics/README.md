@@ -14,3 +14,6 @@ This file contains work for task 3. It is a script that displays the contents of
 
 4-listmorefiles
 This file contains work for task 4. It is a script that displays the contents of the working directory in long format, including hidden files.
+
+5-listfilesdigitonly
+This file contains work for task 5. It is a script that displays the contents of the working directory, including hidden files, with user and group IDs displayed numerically.
