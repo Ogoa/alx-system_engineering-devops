@@ -23,3 +23,6 @@ This file contains work for task 6. It is a script theat creates a directory nam
 
 7-movethatfile
 This file contains worj for task 7. It is a script that moves the file betty from /tmp to /tmp/my_first_directory.
+
+8-firstdelete
+This file contains work for task 8. It is a script that deletes the file betty which is in /tmp/my_first_directory.
