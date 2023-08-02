@@ -17,3 +17,6 @@ This file contains work for task 4. It is a script that displays the contents of
 
 5-listfilesdigitonly
 This file contains work for task 5. It is a script that displays the contents of the working directory, including hidden files, with user and group IDs displayed numerically.
+
+6-firstdirectory
+This file contains work for task 6. It is a script theat creates a directory named my_first_directory in the /tmp directory.
