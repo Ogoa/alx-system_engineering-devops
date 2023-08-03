@@ -11,3 +11,6 @@ This is work for task 2. It is a script that writes out all the groups the curre
 
 3-new_owner
 This is work for task 3. It is a script that changes the owner of the file hello to the user "betty".
+
+4-empty
+This is work for task 4. It is a script that creates an empty file called hello.
