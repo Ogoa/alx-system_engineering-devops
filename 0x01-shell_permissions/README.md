@@ -29,3 +29,6 @@ This is work for task 8. It is a script that sets the permission to the file as 
 
 9-John_Doe
 This is work for task 9. It is a script that sets the mode of the file hello to: "-rwxr-x-wx".
+
+10-mirror_permissions
+This is work for task 10. It is a script that sets the mode of the file hello to be the same as the file olleh.
