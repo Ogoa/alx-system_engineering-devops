@@ -41,3 +41,6 @@ This is work for task 12. It is a script that creates a directory called my_dir 
 
 13-change_group
 This is work for task 13. It is a script that changes the group owner to school for the file hello.
+
+100-change_owner_and_group
+This is work for task 14. It is a script that changes the owner to vincent and the group to staff, for all the files and directories in the current working directory.
