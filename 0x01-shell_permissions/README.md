@@ -17,3 +17,6 @@ This is work for task 4. It is a script that creates an empty file called hello.
 
 5-execute
 This is work for task 5. It is a script that adds execute permission to the owner of the file "hello".
+
+6-multiple_permissions
+This is work for task 6. It is a script that adds execute permission to the owner and the group owner, as well as read permission to other users, to the file hello.
