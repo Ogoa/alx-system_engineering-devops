@@ -35,3 +35,6 @@ This file contains work for task 10. It is a script that changes back to the imm
 
 11-lists
 This contains work for task 11. It is a script that lists all files, including the hidden ones, in the current directory, the parent of the working directory and the /boot directory, all in long format.
+
+12-file_type
+This contains work for task 12. It is a script that prints the type of the file named iamafile, found in the /tmp directory, is.
