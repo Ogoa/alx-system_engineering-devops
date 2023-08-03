@@ -8,3 +8,6 @@ This is work for task 1. It is a script that prints the effective username of th
 
 2-groups
 This is work for task 2. It is a script that writes out all the groups the current user is part of.
+
+3-new_owner
+This is work for task 3. It is a script that changes the owner of the file hello to the user "betty".
