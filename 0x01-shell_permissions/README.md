@@ -14,3 +14,6 @@ This is work for task 3. It is a script that changes the owner of the file hello
 
 4-empty
 This is work for task 4. It is a script that creates an empty file called hello.
+
+5-execute
+This is work for task 5. It is a script that adds execute permission to the owner of the file "hello".
