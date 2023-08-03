@@ -38,3 +38,6 @@ This contains work for task 11. It is a script that lists all files, including t
 
 12-file_type
 This contains work for task 12. It is a script that prints the type of the file named iamafile, found in the /tmp directory, is.
+
+13-symbolic_link
+This contains work for task 13. It is a script that creates a symbolic link named __ls__, to /bin/ls from the working directory.
