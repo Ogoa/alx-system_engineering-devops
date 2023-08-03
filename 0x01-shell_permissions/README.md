@@ -44,3 +44,6 @@ This is work for task 13. It is a script that changes the group owner to school 
 
 100-change_owner_and_group
 This is work for task 14. It is a script that changes the owner to vincent and the group to staff, for all the files and directories in the current working directory.
+
+101-symbolic_link_permissions
+This is work for task 15. It is a script that changes the owner to vincent and the group to staff for "_hello_" which is a symbolic link.
