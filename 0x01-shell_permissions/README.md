@@ -23,3 +23,6 @@ This is work for task 6. It is a script that adds execute permission to the owne
 
 7-everybody
 This is work for task 7. It is a script that adds execution permission to the owner, the group owner and the other users, to the file hello.
+
+8-James_bond
+This is work for task 8. It is a script that sets the permission to the file as follows: no permission at all for the owner and group owner, and all the permissions for other users.
