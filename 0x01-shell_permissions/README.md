@@ -32,3 +32,6 @@ This is work for task 9. It is a script that sets the mode of the file hello to:
 
 10-mirror_permissions
 This is work for task 10. It is a script that sets the mode of the file hello to be the same as the file olleh.
+
+11-directories_permissions
+This is work for task 11. It is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and other users.
