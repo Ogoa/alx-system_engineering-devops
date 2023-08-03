@@ -20,3 +20,6 @@ This is work for task 5. It is a script that adds execute permission to the owne
 
 6-multiple_permissions
 This is work for task 6. It is a script that adds execute permission to the owner and the group owner, as well as read permission to other users, to the file hello.
+
+7-everybody
+This is work for task 7. It is a script that adds execution permission to the owner, the group owner and the other users, to the file hello.
