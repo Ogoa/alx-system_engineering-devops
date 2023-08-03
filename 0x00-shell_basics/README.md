@@ -41,3 +41,6 @@ This contains work for task 12. It is a script that prints the type of the file 
 
 13-symbolic_link
 This contains work for task 13. It is a script that creates a symbolic link named __ls__, to /bin/ls from the working directory.
+
+14-copy_html
+This contains work for task 14. It is a script that copies all the HTML files from the current working directory to its parent directory, but only copies files that do not exist in the parent directory or were newer than the existing versions.
