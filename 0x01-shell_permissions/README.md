@@ -5,3 +5,6 @@ This is work for task 0. It is a script that switches the current user to the us
 
 1-who_am_i
 This is work for task 1. It is a script that prints the effective username of the current user.
+
+2-groups
+This is work for task 2. It is a script that writes out all the groups the current user is part of.
