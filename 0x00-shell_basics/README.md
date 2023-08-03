@@ -32,3 +32,6 @@ This file contains work for task 9. It is a script that deletes the directory my
 
 10-back
 This file contains work for task 10. It is a script that changes back to the immediate previous directory from the current working directory.
+
+11-lists
+This contains work for task 11. It is a script that lists all files, including the hidden ones, in the current directory, the parent of the working directory and the /boot directory, all in long format.
