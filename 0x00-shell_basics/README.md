@@ -29,3 +29,6 @@ This file contains work for task 8. It is a script that deletes the file betty t
 
 9-firstdirdeletion
 This file contains work for task 9. It is a script that deletes the directory my_first_directory that is in the /tmp directory.
+
+10-back
+This file contains work for task 10. It is a script that changes back to the immediate previous directory from the current working directory.
