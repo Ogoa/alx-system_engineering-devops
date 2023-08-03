@@ -47,3 +47,9 @@ This is work for task 14. It is a script that changes the owner to vincent and t
 
 101-symbolic_link_permissions
 This is work for task 15. It is a script that changes the owner to vincent and the group to staff for "_hello_" which is a symbolic link.
+
+102-if_only
+This is work for task 16. It is a script that changes the owner of the file hello to betty only if it's owned bythe user guillname.
+
+103-Star_Wars
+This is work for task 17. It is a script that will play the Star Wars IV episode in the terminal.
