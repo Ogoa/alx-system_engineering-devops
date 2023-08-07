@@ -33,3 +33,6 @@ Task 10. This is a script that deletes all the regular files (not the directorie
 
 12-newest_files
 Task 12. This is a script that displays the 10 newest files in the current directory.
+
+21-reverse
+Task 21. This is a script taht reverses its input.
