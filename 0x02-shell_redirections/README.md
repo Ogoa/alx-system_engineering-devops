@@ -34,6 +34,9 @@ Task 10. This is a script that deletes all the regular files (not the directorie
 12-newest_files
 Task 12. This is a script that displays the 10 newest files in the current directory.
 
+13-unique
+Task 13. This is a script that takes a list of qords as input and prints only words that appear exactly once, in a sorted order.
+
 14-findthatword
 Task 14. This is a script that displays all lines containing the pattern "root" from the file "/etc/passwd"
 
