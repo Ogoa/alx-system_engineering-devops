@@ -48,3 +48,6 @@ Task 17. This is a script that displays all the lines in the file "/etc/passwd" 
 
 21-reverse
 Task 21. This is a script taht reverses its input.
+
+22-users_and_homes
+Task 22. This is a script that displays all users and their home directories, sorted by users.
