@@ -49,6 +49,9 @@ Task 16. This is a script that displays lines containing the pattern "root" and 
 17-hidethisword
 Task 17. This is a script that displays all the lines in the file "/etc/passwd" that do not contain the pattern "bin".
 
+19-AZ
+Task 19. This is a script that replaces all characters "A" and "c" from the given input, to "Z" and "e" respectively.
+
 20-hiago
 Task 20. This is a script that removes all letters "c" and "C" from the given input.
 
