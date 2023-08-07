@@ -9,3 +9,6 @@ Task 1. This is a script that displays "(Ôo)'.
 
 2-hellofile
 Task 2. This is a script that displays the content of the "/etc/passwd" file.
+
+3-twofiles
+Task 3. This is a script that displays the content of "/etc/passwd" and "/etc/hosts". A constraint is that the file should only have two lines.
