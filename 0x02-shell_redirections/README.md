@@ -18,3 +18,6 @@ Task 4. This is a script that displays the last 10 lines of "/etc/passwd".
 
 5-firstlines
 Task 5. This is a script that displays the first 10 lines of "/etc/passwd".
+
+8-cwd_state
+Task 8. This is a script that writes the result of the command "ls -la" into the file "ls_cwd_content".
