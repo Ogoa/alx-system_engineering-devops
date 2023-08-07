@@ -27,3 +27,6 @@ Task 8. This is a script that writes the result of the command "ls -la" into the
 
 9-duplicate_last_line
 Task 9. This is a script that duplicates the last line of the file "iacta".
+
+10-no_more_js
+Task 10. This is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
