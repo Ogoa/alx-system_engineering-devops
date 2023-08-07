@@ -30,3 +30,6 @@ Task 9. This is a script that duplicates the last line of the file "iacta".
 
 10-no_more_js
 Task 10. This is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+
+12-newest_files
+Task 12. This is a script that displays the 10 newest files in the current directory.
