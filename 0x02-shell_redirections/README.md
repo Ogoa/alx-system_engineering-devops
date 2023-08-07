@@ -43,5 +43,8 @@ Task 14. This is a script that displays all lines containing the pattern "root" 
 15-countthatword
 Task 15. This is a script that displays the number of lines that contain the pattern "bin" in the file "/etc/passwd".
 
+17-hidethisword
+Task 17. This is a script that displays all the lines in the file "/etc/passwd" that do not contain the pattern "bin".
+
 21-reverse
 Task 21. This is a script taht reverses its input.
