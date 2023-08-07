@@ -6,3 +6,6 @@ Task 0. This is a script that prints "Hello, World", followed by a new line to t
 
 1-confused_smiley
 Task 1. This is a script that displays "(Ôo)'.
+
+2-hellofile
+Task 2. This is a script that displays the content of the "/etc/passwd" file.
