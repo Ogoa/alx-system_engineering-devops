@@ -38,7 +38,10 @@ Task 12. This is a script that displays the 10 newest files in the current direc
 Task 13. This is a script that takes a list of qords as input and prints only words that appear exactly once, in a sorted order.
 
 14-findthatword
-Task 14. This is a script that displays all lines containing the pattern "root" from the file "/etc/passwd"
+Task 14. This is a script that displays all lines containing the pattern "root" from the file "/etc/passwd".
+
+15-countthatword
+Task 15. This is a script that displays the number of lines that contain the pattern "bin" in the file "/etc/passwd".
 
 21-reverse
 Task 21. This is a script taht reverses its input.
