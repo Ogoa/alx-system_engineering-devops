@@ -24,3 +24,6 @@ Task 6. This is a script that displays the third line of the file "iacta", witho
 
 8-cwd_state
 Task 8. This is a script that writes the result of the command "ls -la" into the file "ls_cwd_content".
+
+9-duplicate_last_line
+Task 9. This is a script that duplicates the last line of the file "iacta".
