@@ -3,3 +3,6 @@ All files are listed below, alongside a brief explanation of what they contain.
 
 0-hello_world
 Task 0. This is a script that prints "Hello, World", followed by a new line to the standard output.
+
+1-confused_smiley
+Task 1. This is a script that displays "(Ôo)'.
