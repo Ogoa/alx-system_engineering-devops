@@ -49,6 +49,9 @@ Task 16. This is a script that displays lines containing the pattern "root" and 
 17-hidethisword
 Task 17. This is a script that displays all the lines in the file "/etc/passwd" that do not contain the pattern "bin".
 
+20-hiago
+Task 20. This is a script that removes all letters "c" and "C" from the given input.
+
 21-reverse
 Task 21. This is a script taht reverses its input.
 
