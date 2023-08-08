@@ -44,3 +44,7 @@ THis script prints the result of "POWER" divided by "DIVIDE" followed by a new l
 10-love_exponent_breath
 Task 10.
 This script displays the result of "BREATH" to the power "LOVE", followed by a new line. THe two variables are environment variables.
+
+12-combinations
+Task 12.
+This script prints all possible combinations oftwo letters in the range "a" to "z", except "oo", in alphabetical order and one combination per line.
