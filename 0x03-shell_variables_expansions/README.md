@@ -48,3 +48,7 @@ This script displays the result of "BREATH" to the power "LOVE", followed by a n
 12-combinations
 Task 12.
 This script prints all possible combinations oftwo letters in the range "a" to "z", except "oo", in alphabetical order and one combination per line.
+
+13-print_float
+Task 13.
+This script printts a number with two decimal places followed by a new line.
