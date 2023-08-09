@@ -52,3 +52,7 @@ This script prints all possible combinations oftwo letters in the range "a" to "
 13-print_float
 Task 13.
 This script printts a number with two decimal places followed by a new line.
+
+100-decimal_to_hexadecimal
+Task 14.
+This script converts a number from base 10 to base 16 and prints it.
