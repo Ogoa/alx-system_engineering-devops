@@ -45,6 +45,10 @@ THis script prints the result of "POWER" divided by "DIVIDE" followed by a new l
 Task 10.
 This script displays the result of "BREATH" to the power "LOVE", followed by a new line. THe two variables are environment variables.
 
+11-binary_to_decimal
+Task 11.
+This script coonverts a binary number to its decimal equivalent then prints it.
+
 12-combinations
 Task 12.
 This script prints all possible combinations oftwo letters in the range "a" to "z", except "oo", in alphabetical order and one combination per line.
