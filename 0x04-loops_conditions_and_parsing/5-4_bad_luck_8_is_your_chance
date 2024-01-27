@@ -4,7 +4,7 @@
 # displays "good luck" for the 8th iteration
 # displays "Best School" for the other iterations
 counter=0
-while [ $counter -lt 10 ]; do
+while [ "$counter" -lt 10 ]; do
 	if [ "$counter" -eq 4 ]; then
 		echo "bad luck"
 	elif [ "$counter" -eq 8 ]; then
