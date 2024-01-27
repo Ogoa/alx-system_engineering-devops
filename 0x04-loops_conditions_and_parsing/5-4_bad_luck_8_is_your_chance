@@ -12,5 +12,5 @@ while [ $counter -lt 10 ]; do
 	else
 		echo "Best School"
 	fi
-	((counter++))
+	counter=$(( counter + 1 ))
 done
