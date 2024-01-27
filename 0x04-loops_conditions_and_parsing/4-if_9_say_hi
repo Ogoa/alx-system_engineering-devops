@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # This script prints "Best School" 10 times
 # It prints "Hi" on the ninth iteration
-counter=0
-while [ $counter -lt 10 ]; do
+counter=1
+while [ $counter -le 10 ]; do
 	echo "Best School"
-	if [ $counter -eq 9 ]; then
+	if [ "$counter" -eq 9 ]; then
 		echo "Hi"
 	fi
-	((counter++))
+	counter=$(( counter + 1))
 done
