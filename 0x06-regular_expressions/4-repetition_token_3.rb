@@ -5,4 +5,4 @@
 #+ hbttn
 #+ It should leave out 'hbon'
 
-puts ARGV[0].scan(/hb[t*-[^o]]+n/).join
+puts ARGV[0].scan(/hbt*n/).join
